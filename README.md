@@ -1,16 +1,14 @@
-# battery_level
+# Battery Level
+O propósito desse projeto foi treinar a comunicação do Flutter com métodos nativos do Android e do iOS. 
 
-A new Flutter project.
+Como a máquina em que desenvolvi é um Windows, fiz somente a comunicação com o Android. 
 
-## Getting Started
+## Referências
+- [Writing custom platform-specific code](https://docs.flutter.dev/development/platform-integration/platform-channels)
 
-This project is a starting point for a Flutter application.
+- [Monitorar o nível de bateria e o estado de carregamento](https://developer.android.com/training/monitoring-device-state/battery-monitoring?hl=pt-br)
 
-A few resources to get you started if this is your first Flutter project:
+## To Do
+[x] Implementar para Android
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[ ] Implementar para iOS
